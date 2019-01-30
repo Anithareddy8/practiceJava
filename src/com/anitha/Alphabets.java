@@ -1,5 +1,5 @@
 package com.anitha;
-
+//this is Alphabets program
 public class Alphabets {
 static char s1='a';
 	public static void main(String[] args) {
